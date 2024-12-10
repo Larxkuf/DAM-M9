@@ -1,0 +1,3 @@
+﻿  server.cpp
+G:\M9\server cpp\ClienteServidor\server\server.cpp(67,41): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  server.vcxproj -> G:\M9\server cpp\ClienteServidor\server\x64\Debug\server.exe
