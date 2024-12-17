@@ -1,0 +1,4 @@
+﻿  server.cpp
+G:\M9\uf2\chat-server-cliente-m9\server\server.cpp(34,71): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+G:\M9\uf2\chat-server-cliente-m9\server\server.cpp(48,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  server.vcxproj -> G:\M9\uf2\chat-server-cliente-m9\x64\Debug\Server.exe
